@@ -27,7 +27,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-docstring_parser_fork-green.svg)](https://anaconda.org/conda-forge/docstring_parser_fork) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/docstring_parser_fork.svg)](https://anaconda.org/conda-forge/docstring_parser_fork) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/docstring_parser_fork.svg)](https://anaconda.org/conda-forge/docstring_parser_fork) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/docstring_parser_fork.svg)](https://anaconda.org/conda-forge/docstring_parser_fork) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-docstring__parser__fork-green.svg)](https://anaconda.org/conda-forge/docstring_parser_fork) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/docstring_parser_fork.svg)](https://anaconda.org/conda-forge/docstring_parser_fork) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/docstring_parser_fork.svg)](https://anaconda.org/conda-forge/docstring_parser_fork) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/docstring_parser_fork.svg)](https://anaconda.org/conda-forge/docstring_parser_fork) |
 
 Installing docstring_parser_fork
 ================================

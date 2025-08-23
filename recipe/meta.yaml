@@ -1,5 +1,5 @@
 {% set name = "docstring_parser_fork" %}
-{% set version = "0.0.12" %}
+{% set version = "0.0.13" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/docstring_parser_fork-{{ version }}.tar.gz
-  sha256: b44c5e0be64ae80f395385f01497d381bd094a57221fd9ff020987d06857b2a0
+  sha256: 3635d3ef6438766882c25046cf2cc073c0a471e1d5cb36ee674f7de948d77749
 
 build:
   noarch: python
@@ -17,7 +17,7 @@ build:
 requirements:
   host:
     - python {{ python_min }}
-    - poetry-core >=1.0.0
+    - hatchling
     - pip
   run:
     - python >={{ python_min }},<4.0
